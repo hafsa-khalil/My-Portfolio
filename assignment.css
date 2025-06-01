@@ -1,0 +1,29 @@
+body {
+  background-color: #daf1ff;
+  padding: 60px; 
+  font-family: Arial, sans-serif;
+}
+
+.intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 150px; 
+}
+
+.intro-text {
+  max-width: 70%; 
+  padding-right: 60px; 
+  font-size: 1.2em; 
+  line-height: 1.6;
+}
+
+.profile-img {
+  max-width: 600px; 
+  height: auto;
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+
+
